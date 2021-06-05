@@ -1,6 +1,7 @@
-# ITWP 1000 Website Project 3
+# ITWP 1000 - Website Project 3
 
 Project objectives:
+
 Create a fully functional website using an HTML5 template.
 - Must contain at least 4 pages
 - Each page must contain at least 2 paragraphs of meaningful text content
